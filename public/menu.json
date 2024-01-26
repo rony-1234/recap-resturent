@@ -1,0 +1,155 @@
+[
+    {
+      "_id": "1",
+      "category": "Dessert",
+      "title": "Spaghetti Bolognese",
+      "price": 12.99,
+      "recipe": "Delicious spaghetti with a rich Bolognese sauce.",
+      "img": "https://i.ibb.co/1nRsGSP/istockphoto-1227170236-612x612.jpg"
+    },
+    {
+      "_id": "2",
+      "category": "Offerd",
+      "title": "Chocolate Cake",
+      "price": 15.50,
+      "recipe": "Moist chocolate cake with decadent chocolate frosting.",
+      "img": "https://i.ibb.co/LNxVz3G/berry-cheesecake.jpg"
+    },
+    {
+      "_id": "3",
+      "category": "Breakfast",
+      "title": "Caprese Salad",
+      "price": 8.99,
+      "recipe": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze.",
+      "img": "https://i.ibb.co/DwHR4sQ/istockphoto-1264941753-612x612.jpg"
+    },
+    {
+      "_id": "4",
+      "category": "Breakfast",
+      "title": "Avocado Toast",
+      "price": 10.25,
+      "recipe": "Sliced avocado on toasted whole-grain bread with a sprinkle of sea salt.",
+      "img": "https://i.ibb.co/NxC2Vvg/istockphoto-1131421212-612x612.jpg"
+    },
+    {
+      "_id": "5",
+      "category": "Beverage",
+      "title": "Mango Smoothie",
+      "price": 7.99,
+      "recipe": "Refreshing smoothie made with ripe mango, yogurt, and a splash of orange juice.",
+      "img": "https://i.ibb.co/3TLzD8r/photo-1625865019845-7b2c89b8a8a9.jpg"
+    },
+    {
+      "_id": "6",
+      "category": "Offerd",
+      "title": "Chicken Alfredo Pasta",
+      "price": 14.75,
+      "recipe": "Creamy Alfredo sauce tossed with grilled chicken and fettuccine pasta.",
+      "img": "https://i.ibb.co/8MtyfsV/istockphoto-469062144-612x612.jpg"
+    },
+    {
+      "_id": "7",
+      "category": "Beverage",
+      "title": "Orange smooth ",
+      "price": 9.50,
+      "recipe": "Homemade guacamole served with crispy tortilla chips.",
+      "img": "https://i.ibb.co/fG47DP4/istockphoto-1303977605-1024x1024.jpg"
+    },
+    {
+      "_id": "8",
+      "category": "Offerd",
+      "title": "Nutt Cheesecake",
+      "price": 18.99,
+      "recipe": "Classic cheesecake topped with fresh strawberries.",
+      "img": "https://i.ibb.co/fQLttpZ/photo-1499638673689-79a0b5115d87.jpg"
+    },
+    {
+      "_id": "9",
+      "category": "Breakfast",
+      "title": "Blueberry Pancakes",
+      "price": 11.00,
+      "recipe": "Fluffy pancakes filled with juicy blueberries, served with maple syrup.",
+      "img": "https://i.ibb.co/nkrsw0k/istockphoto-161170090-612x612.jpg"
+    },
+    {
+      "_id": "10",
+      "category": "Beverage",
+      "title": "Iced Coffee",
+      "price": 5.75,
+      "recipe": "Chilled coffee served over ice with a splash of milk and sweetener.",
+      "img": "https://i.ibb.co/ZW3vrkZ/photo-1556679343-c7306c1976bc.jpg"
+    },
+      {
+        "_id": 11,
+        "category": "Dessert",
+        "price": 12.99,
+        "recipe": "Spaghetti Bolognese",
+        "title": "Classic Spaghetti Bolognese",
+        "img": "https://i.ibb.co/27Gf7Mv/download.jpg"
+      },
+      {
+        "_id": 12,
+        "category": "Beverage",
+        "price": 8.99,
+        "recipe": "Cold Drink ",
+        "title": "Fresh Caprese Salad",
+        "img": "https://i.ibb.co/NLPbM8f/download.jpg"
+      },
+      {
+        "_id": 13,
+        "category": "Dessert",
+        "price": 6.99,
+        "recipe": "Chocolate Cake",
+        "title": "Decadent Chocolate Cake",
+        "img": "https://i.ibb.co/ChPjpVH/premium-photo-1671980819443-e8bbeec85840.jpg"
+      },
+      {
+        "_id": 14,
+        "category": "Breakfast",
+        "price": 9.99,
+        "recipe": "The Early Breakfast",
+        "title": "Avocado Toast with Poached Egg",
+        "img": "https://i.ibb.co/LtB68R9/premium-photo-1676409608965-665e89ba22a4.jpg"
+      },
+      {
+        "_id": 15,
+        "category": "Beverage",
+        "price": 4.99,
+        "recipe": "Mango Smoothie",
+        "title": "Refreshing Mango Smoothie",
+        "img": "https://i.ibb.co/HHwbsQG/download.jpg"
+      },
+      {
+        "_id": 16,
+        "category": "Offerd",
+        "price": 3.99,
+        "recipe": "Guacamole",
+        "title": "Homemade Guacamole",
+        "img": "https://i.ibb.co/G5xydbZ/download.jpg"
+      },
+      {
+        "_id": 17,
+        "category": "Offerd",
+        "price": 15.99,
+        "recipe": "Chicken Alfredo",
+        "title": "Creamy Chicken Alfredo Pasta",
+        "img": "https://i.ibb.co/MM8XtDv/istockphoto-466379520-612x612.jpg"
+      },
+      {
+        "_id": 18,
+        "category": "Beverage",
+        "price": 7.99,
+        "recipe": "Strawberry Shortcake",
+        "title": "Classic Strawberry Shortcake",
+        "img": "https://i.ibb.co/v4wbkmZ/istockphoto-1398756848-612x612.jpg"
+      },
+      {
+        "_id":19,
+        "category": "Beverage",
+        "price": 10.99,
+        "recipe": "Orange Cold Drink",
+        "title": "Baked Spinach Artichoke Dip",
+        "img": "https://i.ibb.co/Cmwsr71/download.jpg"
+      }
+      
+    ]

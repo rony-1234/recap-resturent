@@ -1,0 +1,34 @@
+[
+
+    {
+        "id": 1,
+        "name": "Mark Zuckerberg",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Kiara Advani",
+        "details": "Nulla facilisi. Vestibulum cursus mauris quis ullamcorper sodales.",
+        "rating": 3.8
+      },
+      {
+        "id": 3,
+        "name": "Josep Morio",
+        "details": "Sed euismod justo vel odio iaculis, nec scelerisque velit congue.",
+        "rating": 4.2
+      },
+
+      {
+        "id": 4,
+        "name": "Riasad azim",
+        "details": "Fusce dapibus orci eu justo cursus, at dictum mi consequat.",
+        "rating": 4.7
+      },
+      {
+        "id": 5,
+        "name": "Rupom Hasan",
+        "details": "Proin non felis vel turpis dignissim volutpat sit amet vel libero.",
+        "rating": 3.5
+      }
+]
